@@ -43,8 +43,9 @@ These components are variable count!
 ![img](assets/e2.png)
 
 ### Bell
-Animated bell, created by using bridge node to connect cylinders
+Animated bell; this one i created by animating 3 smaller cylinders and bridging them together.
 ![img](assets/r1.png)
 
-due to time reason this readme might be a bit short ^^!
-feel free to let me know if there are any questions!
+## Note
+I had to use a late day for this assignment.
+The readme might be a bit short due to time reason (i am really sleep deprived as of writing this), feel free to let me know if there are any questions!
