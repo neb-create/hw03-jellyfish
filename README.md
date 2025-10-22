@@ -1,13 +1,14 @@
 # Procedural Jellyfish
 
-due to time reason this readme will be a bit simple ^^);
+## Result
+![img](assets/shot1.png)
+
+Link to animation:
+https://youtu.be/IYOGoNA7XNY
 
 ## Inspiration
 Ventgarden from Subnautica:
 ![img](assets/vent.jpg)
-
-## Final Shape
-![img](assets/shot1.png)
 
 ## Components 
 ### Veins -> Interior Forest
@@ -42,3 +43,8 @@ These components are variable count!
 ### Bell
 Animated bell, created by using bridge node to connect cylinders
 ![img](assets/r1.png)
+
+
+
+due to time reason this readme is be a bit simple ^^);
+feel free to let me know if there are any questions!
