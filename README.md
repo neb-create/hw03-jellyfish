@@ -1,10 +1,11 @@
 # Procedural Jellyfish
 
-## Result
-![img](assets/shot1.png)
+## Showcase
+For this project, I created a simple animated procedural jellyfish using Houdini, using the Ventgarden from Subnautica as a reference:
 
-Link to animation:
-https://youtu.be/IYOGoNA7XNY
+![Screenshot](assets/shot1.png)
+
+[Watch the animation](https://youtu.be/IYOGoNA7XNY)
 
 ## Inspiration
 Ventgarden from Subnautica:
@@ -18,15 +19,15 @@ I turned the vein part of our template into an internal forest like the referenc
 ### Animated Eye
 Eyes on the side of the jellyfish. they blink every few seconds!!
 
-![img](assets/a2.png)
 ![img](assets/a3.png)
+![img](assets/gif.gif)
 
 ### Arms
 Since the reference has very simple legs, I also implemented the required arms in the same file in case there are hw requirement concerns ^^);
 
 ![img](assets/a4.png)
-![img](assets/q2.png)
 
+![img](assets/q2.png)
 
 ### Body
 This one is coded using the same logic as the flower lab code :]
@@ -38,13 +39,12 @@ Lower body is similar, then with all the components attached.
 
 These components are variable count! 
 ![img](assets/e1.png)
+
 ![img](assets/e2.png)
 
 ### Bell
 Animated bell, created by using bridge node to connect cylinders
 ![img](assets/r1.png)
 
-
-
-due to time reason this readme is be a bit simple ^^);
+due to time reason this readme might be a bit short ^^!
 feel free to let me know if there are any questions!
